@@ -52,7 +52,7 @@ Players Ecommerce features a clean and modern aesthetic, emphasizing the visual 
 The user experience is guided by principles of clarity and simplicity. Menus are organized by category, transitions are smooth, and every interaction provides visual feedback. The site is fully responsive, adapting seamlessly to mobile, tablet, and desktop devices.
 
 <!--proyect_image2_https://images.unsplash.com/photo-1556906781-2f0520405b71?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=600&q=80-->
-![Responsive design](https://images.unsplash.com/photo-1556906781-2f0520405b71?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=600&q=80)
+![Responsive design](https://strategicmarketingacademy.com/wp-content/uploads/responsive-website-design.jpg)
 
 ---
 
@@ -133,3 +133,4 @@ The system includes an administrative panel for managing products, users, and or
 <!--proyect_content_footer-->
 Where style meets comfort 🎯  
 **Last updated:** March 15, 2024
+
