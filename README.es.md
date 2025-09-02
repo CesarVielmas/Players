@@ -52,7 +52,7 @@ El diseño de Players Ecommerce se basa en una estética limpia y moderna, con �
 La experiencia de usuario está guiada por principios de claridad y simplicidad. Los menús están organizados por categorías, las transiciones son suaves y cada interacción ofrece retroalimentación visual. El sitio es completamente responsivo, adaptándose a móviles, tablets y escritorio sin pérdida de funcionalidad.
 
 <!--proyect_image2_https://images.unsplash.com/photo-1556906781-2f0520405b71?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=600&q=80-->
-![Diseño responsivo](https://images.unsplash.com/photo-1556906781-2f0520405b71?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=600&q=80)
+![Diseño responsivo](https://strategicmarketingacademy.com/wp-content/uploads/responsive-website-design.jpg)
 
 ---
 
